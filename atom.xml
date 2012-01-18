@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Stefan Nguyen]]></title>
+  <link href="http://stnguyen.com/atom.xml" rel="self"/>
+  <link href="http://stnguyen.com/"/>
+  <updated>2012-01-19T01:32:53+07:00</updated>
+  <id>http://stnguyen.com/</id>
+  <author>
+    <name><![CDATA[Stefan Nguyen]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Hello World]]></title>
+    <link href="http://stnguyen.com/blog/2012/01/13/hello-world/"/>
+    <updated>2012-01-13T15:25:00+07:00</updated>
+    <id>http://stnguyen.com/blog/2012/01/13/hello-world</id>
+    <content type="html"><![CDATA[<p>asfksa</p>
+]]></content>
+  </entry>
+  
+</feed>
