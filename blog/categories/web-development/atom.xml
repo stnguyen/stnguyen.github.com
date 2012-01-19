@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Stefan Nguyen]]></title>
-  <link href="http://stnguyen.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Web development | Stefan Nguyen]]></title>
+  <link href="http://stnguyen.com/blog/categories/web-development/atom.xml" rel="self"/>
   <link href="http://stnguyen.com/"/>
   <updated>2012-01-19T02:29:44+07:00</updated>
   <id>http://stnguyen.com/</id>
@@ -25,19 +25,10 @@
 <li><a href="http://cappuccino.org/">Cappuchino</a>: Objective-J, building web-apps that look &amp; feel like desktop apps</li>
 <li><a href="http://brunchwithcoffee.com/">Brunch</a>: A lightweight approach to building HTML5 applications with emphasis on elegance and simplicity</li>
 <li><a href="http://lessframework.com/">Lessframework</a>: Less Framework is a CSS grid system for designing adaptive web­sites.</li>
-<li><a href="http://radiapp.com">Radi</a>: doing animation, effects,&#8230; the HTML5 way (no Flash!)</li>
+<li><a href="http://radiapp.com">Radi</a>: doing animation, effects,... the HTML5 way (no Flash!)</li>
 <li><a href="http://tympanus.net/codrops/2010/12/21/website-tour/">Website Tour with jQuery</a>: a little script that allows to create a tour on a website with jQuery.</li>
 </ul>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Hello World]]></title>
-    <link href="http://stnguyen.com/blog/2012/01/13/hello-world/"/>
-    <updated>2012-01-13T15:25:00+07:00</updated>
-    <id>http://stnguyen.com/blog/2012/01/13/hello-world</id>
-    <content type="html"><![CDATA[<p>asfksa</p>
 ]]></content>
   </entry>
   
