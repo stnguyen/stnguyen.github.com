@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Stefan Nguyen]]></title>
-  <link href="http://stnguyen.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Natural Language Processing | Stefan Nguyen]]></title>
+  <link href="http://stnguyen.com/blog/categories/natural-language-processing/atom.xml" rel="self"/>
   <link href="http://stnguyen.com/"/>
   <updated>2012-01-19T11:34:00+07:00</updated>
   <id>http://stnguyen.com/</id>
@@ -29,7 +29,7 @@
 
 <h2>Prepare folders</h2>
 
-<p>I&#8217;ll install moses into my home directory</p>
+<p>I'll install moses into my home directory</p>
 
 <pre><code>$ mkdir ~/moses
 $ mkdir ~/moses/downloads
@@ -55,7 +55,7 @@ $ cd giza-pp
 $ make
 </code></pre>
 
-<p>Giza don&#8217;t have <code>make install</code>, so let&#8217;s copy compiled files manually</p>
+<p>Giza don't have <code>make install</code>, so let's copy compiled files manually</p>
 
 <pre><code>$ cp GIZA++-v2/GIZA++ ~/moses/bin/
 $ cp mkcls-v2/mkcls ~/moses/bin/
@@ -125,7 +125,7 @@ BINDIR=/home/stefan/moses/bin
 <pre><code>$ make release
 </code></pre>
 
-<p>And you&#8217;re done.</p>
+<p>And you're done.</p>
 
 <h3>More resources</h3>
 
@@ -133,25 +133,6 @@ BINDIR=/home/stefan/moses/bin
 <li>To learn how to train models, have a look at <a href="http://www.statmt.org/moses/?n=FactoredTraining.HomePage">http://www.statmt.org/moses/?n=FactoredTraining.HomePage</a></li>
 <li>To try out Moses with a sample trained model, follow <a href="http://www.statmt.org/moses/?n=Moses.Tutorial">http://www.statmt.org/moses/?n=Moses.Tutorial</a></li>
 <li>There’re also a baseline guiding you from preparing data, training models to tuning, testing and evaluating models: <a href="http://www.statmt.org/wmt11/baseline.html">http://www.statmt.org/wmt11/baseline.html</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Cool technologies for Web development]]></title>
-    <link href="http://stnguyen.com/blog/2012/01/19/cool-web-development-technologies/"/>
-    <updated>2012-01-19T02:25:00+07:00</updated>
-    <id>http://stnguyen.com/blog/2012/01/19/cool-web-development-technologies</id>
-    <content type="html"><![CDATA[<p>Just something I’ve noted down months ago, almost forgot that I intended to dive into later.</p>
-
-<ul>
-<li><a href="http://cappuccino.org/">Node.js</a>: server-side javascript - http://nodejs.org</li>
-<li><a href="http://cappuccino.org/">Cappuchino</a>: Objective-J, building web-apps that look &amp; feel like desktop apps</li>
-<li><a href="http://brunchwithcoffee.com/">Brunch</a>: A lightweight approach to building HTML5 applications with emphasis on elegance and simplicity</li>
-<li><a href="http://lessframework.com/">Lessframework</a>: Less Framework is a CSS grid system for designing adaptive web­sites.</li>
-<li><a href="http://radiapp.com">Radi</a>: doing animation, effects,&#8230; the HTML5 way (no Flash!)</li>
-<li><a href="http://tympanus.net/codrops/2010/12/21/website-tour/">Website Tour with jQuery</a>: a little script that allows to create a tour on a website with jQuery.</li>
 </ul>
 
 ]]></content>
