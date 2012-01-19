@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Developer Life | Stefan Nguyen]]></title>
+  <link href="http://stnguyen.com/blog/categories/developer-life/atom.xml" rel="self"/>
+  <link href="http://stnguyen.com/"/>
+  <updated>2012-01-19T13:43:29+07:00</updated>
+  <id>http://stnguyen.com/</id>
+  <author>
+    <name><![CDATA[Stefan Nguyen]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Advice for Computer Science College Students from Joel Spolsky]]></title>
+    <link href="http://stnguyen.com/blog/2012/01/19/advice-for-computer-science-college-students-from-joel-spolsky/"/>
+    <updated>2012-01-19T13:40:00+07:00</updated>
+    <id>http://stnguyen.com/blog/2012/01/19/advice-for-computer-science-college-students-from-joel-spolsky</id>
+    <content type="html"><![CDATA[<blockquote><p>The difference between a tolerable programmer and a great programmer is not how many programming languages they know, and it’s not whether they prefer Python or Java. <strong>It’s whether they can communicate their ideas</strong>. By persuading other people, they get leverage. By writing clear comments and technical specs, they let other programmers understand their code, which means other programmers can use and work with their code instead of rewriting it. Absent this, their code is worthless.</p></blockquote>
+
+<p>Joel is the CEO of <a href="http://stackoverflow.com">Stack Overflow</a>. In 2005 he wrote an article named “Advice for Computer Science College Students” in which he gave “Seven Pieces of Free Advice for Computer Science College Students”:</p>
+
+<p>Learn how to write before graduating.
+Learn C before graduating.
+Learn microeconomics before graduating.
+Don’t blow off non-CS classes just because they’re boring.
+Take programming-intensive courses.
+Stop worrying about all the jobs going to India.
+No matter what you do, get a good summer internship.
+Despite being a 7-years old article, I find it still very useful for graduating CS students like me.</p>
+
+<p>I recommend reading the <a href="http://www.joelonsoftware.com/articles/CollegeAdvice.html">original article in Joel blog</a>, you’ll find many other great posts in there, too.</p>
+]]></content>
+  </entry>
+  
+</feed>
