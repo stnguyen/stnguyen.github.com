@@ -4,7 +4,7 @@
   <title><![CDATA[Stefan Nguyen]]></title>
   <link href="http://stnguyen.com/atom.xml" rel="self"/>
   <link href="http://stnguyen.com/"/>
-  <updated>2012-01-19T18:23:22+07:00</updated>
+  <updated>2012-04-03T11:14:33+07:00</updated>
   <id>http://stnguyen.com/</id>
   <author>
     <name><![CDATA[Stefan Nguyen]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Mongoid Paranoia: Retrieve deleted (paranoid) associating document]]></title>
+    <link href="http://stnguyen.com/blog/2012/01/19/mongoid-paranoia-retrieve-deleted-document/"/>
+    <updated>2012-01-19T23:25:00+07:00</updated>
+    <id>http://stnguyen.com/blog/2012/01/19/mongoid-paranoia-retrieve-deleted-document</id>
+    <content type="html"><![CDATA[<blockquote><p>There may be times when you don&#8217;t want documents to actually get deleted from the database, but &#8220;flagged&#8221; as deleted. Mongoid provides a Paranoia module to give you just that.</p>
+
+<p><cite><a href="http://mongoid.org/docs/extras.html">Mongoid Document</a></cite></p></blockquote>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Benefits of using MongoDB: Reduce Complexity &amp; Adapt to Changes]]></title>
