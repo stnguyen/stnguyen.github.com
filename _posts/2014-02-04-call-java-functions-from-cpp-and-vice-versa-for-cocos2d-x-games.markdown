@@ -3,6 +3,7 @@ layout: post
 title:  "Call Java functions from C++ (and vice-versa)"
 date:   2014-02-04 01:36:05
 categories: cocos2d-x
+comments: true
 ---
 
 Calling Java functions from C++ (and vice-versa) for a cross-platform cocos2d-x game is actually not that hard (and scary, as I thought). Learning from cocos2d's `Java_org_cocos2dx_lib_Cocos2dxHelper.cpp` file and a bit of searching on the internet should give us all the information we might need.
