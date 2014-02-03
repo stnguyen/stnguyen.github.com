@@ -1,0 +1,25 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            '{stnguyen}'
+tagline:          'Game dev and random stuffs'
+url:              http://stnguyen.com
+
+author:
+  name:           'Stefan Nguyen'
+  url:            https://github.com/stnguyen
+
+paginate:         5
+
+# Custom vars
+version:          1.0.0
+
+links:
+  github:         https://github.com/stnguyen
+  linkedin:       http://www.linkedin.com/pub/stefan-nguyen/84/31b/592
+  twitter:        https://twitter.com/stnguyenvn
