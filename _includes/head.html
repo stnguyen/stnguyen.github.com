@@ -37,7 +37,7 @@
  {% if page.title == "Home" %}
     <meta property="og:description" content="{{ site.description_text }}" />
   {% else %}
-    <meta property="og:description" content="{{ page.excerpt }}" />
+    <meta property="og:description" content="{{ page.content | truncate: 300 | xml_escape }}" />
   {% endif %}
   <meta property="og:site_name" content="{{ site.title }} - {{ site.tagline }}" />
   <meta property="og:image" content="{{ site.url }}/public/blog-fav-512.png" />

@@ -3,6 +3,7 @@ layout: post
 title:  "Call Java functions from C++ in cocos2d-x"
 date:   2014-02-04 01:36:05
 categories: cocos2d-x
+tags: cocos2d-x
 comments: true
 ---
 
