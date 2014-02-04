@@ -7,9 +7,9 @@
 
   <title>
     {% if page.title == "Home" %}
-      {{ site.title }} &middot; {{ site.tagline }}
+      {{ site.title }} - {{ site.tagline }}
     {% else %}
-      {{ page.title }} &middot; {{ site.title }}
+      {{ page.title }} - {{ site.title }}
     {% endif %}
   </title>
 
@@ -25,4 +25,20 @@
 
   <!-- RSS -->
   <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
+
+  <!-- Facebook opengraph metadata -->
+  <meta property="og:title" content="{{ page.title }} - {{ site.title }}" />
+  {% if page.title == "Home" %}
+    <meta property="og:type" content="website" />
+  {% else %}
+    <meta property="og:type" content="article" />
+  {% endif %}
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+ {% if page.title == "Home" %}
+    <meta property="og:description" content="{{ site.description_text }}" />
+  {% else %}
+    <meta property="og:description" content="{{ page.excerpt }}" />
+  {% endif %}
+  <meta property="og:site_name" content="{{ site.title }} - {{ site.tagline }}" />
+  <meta property="fb:admins" content="1839932108" />
 </head>

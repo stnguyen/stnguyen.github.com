@@ -13,7 +13,8 @@ permalink:        none
 title:            '{stnguyen}'
 tagline:          'Game dev and random stuffs'
 url:              http://stnguyen.com
-
+description:      "Hi, I'm <em>Stefan Nguyen</em>, a developer living in Ha Noi, Viet Nam. I love creating stuffs, mostly mobile games and web-apps nowadays. Hope you found something helpful in my tech blog ;)"
+description_text: "Hi, I'm Stefan Nguyen, a developer living in Ha Noi, Viet Nam. I love creating stuffs, mostly mobile games and web-apps nowadays. Hope you found something helpful in my tech blog ;)"
 author:
   name:           'Stefan Nguyen'
   url:            https://github.com/stnguyen
