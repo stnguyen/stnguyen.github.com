@@ -1,3 +1,5 @@
+timezone: Asia/Ho_Chi_Minh
+
 # Dependencies
 markdown:         redcarpet
 redcarpet:
@@ -5,7 +7,7 @@ redcarpet:
 pygments:         true
 
 # Permalinks
-permalink:        pretty
+permalink:        none
 
 # Setup
 title:            '{stnguyen}'
