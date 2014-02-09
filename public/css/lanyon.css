@@ -135,6 +135,10 @@ ul.posts {
   list-style-type: none;
 }
 
+ul.posts li {
+  margin-bottom: 0.5rem;
+}
+
 .posts span {
   float: right;
   color: #999;
