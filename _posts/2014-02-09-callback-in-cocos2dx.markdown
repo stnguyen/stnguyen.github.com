@@ -7,12 +7,12 @@ tags: cocos2d-x game-development callback cccallfunc
 comments: true
 ---
 
-Callback, the ability to declare a piece of code to be run at some time later, is essential in game development. cocos2d provides an easy-to-use mechanism to run callback via `CCNode.runAction()` through `CCCallFunc` family. We can extend its mechanism to run callback any time we want, regardless of `CCNode` or `CCCallFunc`.
+Callback, the ability to declare a piece of code to be run at some time later, is essential in game development. cocos2d provides an easy-to-use mechanism to run callback via `CCNode.runAction()` through _CCCallFunc_ family. We can extend its mechanism to run callback any time we want, regardless of _CCNode_ or _CCCallFunc_.
 
 Callback in `CCNode.runAction()`
 ---
 
-cocos2d-x (and cocos2d-iphone) provides a bunch of `CCAction` subclasses which allow you to do callback in `CCNode.runAction()`. They are:
+cocos2d-x (and cocos2d-iphone) provides a bunch of _CCAction_ subclasses which allow you to do callback in `CCNode.runAction()`. They are:
 
 - `CCCallFunc`: calls a function with no arguments
 - `CCCallFuncN`: calls a function with the node as the first argument. `N` stands for _node_
