@@ -1,0 +1,1533 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"print",
+				"printf"
+			],
+			[
+				"owned",
+				"owned_officer"
+			],
+			[
+				"curre",
+				"current_player"
+			],
+			[
+				"offic",
+				"officers"
+			],
+			[
+				"local",
+				"local_files"
+			],
+			[
+				"vers",
+				"version_detail"
+			],
+			[
+				"new",
+				"new_data_version"
+			],
+			[
+				"cur",
+				"current_build_version"
+			],
+			[
+				"Game",
+				"GameSession"
+			],
+			[
+				"da",
+				"data_version"
+			],
+			[
+				"Server",
+				"ServerHelper"
+			],
+			[
+				"done",
+				"done_update_version"
+			],
+			[
+				"current_",
+				"current_defense_battle"
+			],
+			[
+				"fil",
+				"file_name"
+			],
+			[
+				"move",
+				"move_along_path_comp"
+			],
+			[
+				"insta",
+				"instantly"
+			],
+			[
+				"grap",
+				"graphic_node"
+			],
+			[
+				"enti",
+				"entities"
+			],
+			[
+				"max",
+				"max_play_turns_count"
+			],
+			[
+				"cu",
+				"current_play_turns_count"
+			],
+			[
+				"remain",
+				"remaining_play_turn_cooldown_time"
+			],
+			[
+				"level",
+				"level_comp"
+			],
+			[
+				"targe",
+				"target_graphic_node"
+			],
+			[
+				"skill",
+				"skill_comp"
+			],
+			[
+				"cool",
+				"cooldown_time"
+			],
+			[
+				"remaining",
+				"remaining_delay_frames_to_hit"
+			],
+			[
+				"cor",
+				"coordinate_keys"
+			],
+			[
+				"way",
+				"way_points"
+			],
+			[
+				"obje",
+				"object_layers"
+			],
+			[
+				"wa",
+				"way_point_sets"
+			],
+			[
+				"all",
+				"all_officer_ids"
+			],
+			[
+				"shop",
+				"shop_officer_ids"
+			],
+			[
+				"attack",
+				"attack_comp"
+			],
+			[
+				"levl",
+				"level_comp_mapper"
+			],
+			[
+				"defe",
+				"defense_star"
+			],
+			[
+				"st",
+				"star"
+			],
+			[
+				"di",
+				"difficulty"
+			],
+			[
+				"hea",
+				"health_comp"
+			],
+			[
+				"he",
+				"health_per_attacker_for_current_wave"
+			],
+			[
+				"def",
+				"defense_star"
+			],
+			[
+				"spawn",
+				"spawned_enemy_in_current_wave_count"
+			],
+			[
+				"per",
+				"per_enemy_interval"
+			],
+			[
+				"isw",
+				"is_spawning"
+			],
+			[
+				"numb",
+				"number_of_enemies_per_wave"
+			],
+			[
+				"defen",
+				"defense_difficulty"
+			],
+			[
+				"officer_dis",
+				"officer_display_name"
+			],
+			[
+				"offi",
+				"officer"
+			],
+			[
+				"of",
+				"officer"
+			],
+			[
+				"officer_displ",
+				"officer_display_names"
+			],
+			[
+				"off",
+				"officer_display_name"
+			],
+			[
+				"name",
+				"display_name"
+			],
+			[
+				"city",
+				"city_config"
+			],
+			[
+				"sele",
+				"show_select_character"
+			],
+			[
+				"owned_off",
+				"owned_officers"
+			],
+			[
+				"show_s",
+				"show_select_bigin_city"
+			],
+			[
+				"compo",
+				"component"
+			],
+			[
+				"json",
+				"json_path"
+			],
+			[
+				"owne",
+				"owned_officers"
+			],
+			[
+				"owned_of",
+				"owned_officer_id"
+			],
+			[
+				"leve",
+				"levelsToChangeBg"
+			],
+			[
+				"strong",
+				"strongEnemyProb"
+			],
+			[
+				"ani",
+				"animFrames"
+			],
+			[
+				"throw",
+				"throwsPerCooldown"
+			],
+			[
+				"para",
+				"params"
+			],
+			[
+				"params",
+				"params1"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"curr",
+				"current_defense_battle"
+			],
+			[
+				"curren",
+				"current_defense_battle"
+			],
+			[
+				"update",
+				"update_attributes"
+			],
+			[
+				"movea",
+				"move_along_path_comp"
+			],
+			[
+				"del",
+				"delta"
+			],
+			[
+				"compon",
+				"component_mapper_controller"
+			],
+			[
+				"cent",
+				"center_point"
+			],
+			[
+				"graphi",
+				"graphic_node"
+			],
+			[
+				"cusom",
+				"custom_component_create_func"
+			],
+			[
+				"set",
+				"setup_instance"
+			],
+			[
+				"tile",
+				"tile_map_data"
+			],
+			[
+				"tiles",
+				"tiles_size"
+			],
+			[
+				"sound",
+				"soundEffects"
+			],
+			[
+				"a",
+				"AudioEngine"
+			],
+			[
+				"layer",
+				"layerDarkEnvironment"
+			],
+			[
+				"dark",
+				"layerDarkEnvironment"
+			],
+			[
+				"remove",
+				"removeFromParent"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "_posts/2014-02-04-call-java-functions-from-cpp.markdown",
+			"settings":
+			{
+				"buffer_size": 4356,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_posts/2012-01-19-install-moses-on-ubuntu-10-dot-10.markdown",
+			"settings":
+			{
+				"buffer_size": 4170,
+				"line_ending": "Unix",
+				"name": "---"
+			}
+		},
+		{
+			"file": "_posts/2014-02-09-callback-in-cocos2dx.markdown",
+			"settings":
+			{
+				"buffer_size": 1492,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/css/poole.css",
+			"settings":
+			{
+				"buffer_size": 6407,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/css/lanyon.css",
+			"settings":
+			{
+				"buffer_size": 11640,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_config.yml",
+			"settings":
+			{
+				"buffer_size": 1031,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 137.0,
+		"selected_items":
+		[
+		],
+		"width": 516.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/stefan/works/hub102/stnguyen.github.com/blog/2012/01/19/install-moses-on-ubuntu-10-dot-10.html",
+		"/Users/stefan/works/hub102/stnguyen.github.com/blog/2012/01/19/install-moses-on-ubuntu-10-dot-10/index.html",
+		"/Users/stefan/works/hub102/stnguyen.github.com/_includes/head.html",
+		"/Users/stefan/works/hub102/stnguyen.github.com/public/css/lanyon.css",
+		"/Users/stefan/works/hub102/stnguyen.github.com/index.html",
+		"/Users/stefan/works/hub102/stnguyen.github.com/public/css/poole.css",
+		"/Users/stefan/works/hub102/stnguyen.github.com/_layouts/default.html",
+		"/Users/stefan/works/hub102/stnguyen.github.com/_layouts/home.html",
+		"/Users/stefan/works/hub102/stnguyen.github.com/public/css/syntax.css",
+		"/Users/stefan/works/hub102/stnguyen.github.com/_config.yml",
+		"/Users/stefan/works/hub102/stnguyen.github.com/_includes/sidebar.html",
+		"/Users/stefan/works/hub102/stnguyen.github.com/_layouts/page.html",
+		"/Users/stefan/works/hub102/stnguyen.github.com/_layouts/post.html",
+		"/Users/stefan/works/hub102/stnguyen.github.com/atom.xml",
+		"/Users/stefan/works/hub102/paul/jellycrunch/proj.android/src/com/unfinishedgames/jellycrunch/JellyCrunch.java",
+		"/Users/stefan/works/hub102/paul/jellycrunch/Resources/scripts/loader.lua",
+		"/Users/stefan/works/hub102/paul/flux/scripts/flux/flux.lua",
+		"/Users/stefan/works/hub102/paul/jellycrunch/proj.android/build_native.sh",
+		"/Users/stefan/works/hub102/paul/jellycrunch/Source/Android/FacebookManagerAndroid.cpp",
+		"/Users/stefan/works/hub102/paul/jellycrunch/Resources/scripts/mainmenu.lua",
+		"/Users/stefan/works/hub102/paul/jellycrunch/Source/Stub/FacebookManager.h",
+		"/Users/stefan/works/hub102/paul/jellycrunch/proj.android/jni/Application.mk",
+		"/Users/stefan/works/hub102/paul/jellycrunch/Resources/scripts/unlockdlg.lua",
+		"/Users/stefan/works/hub102/paul/jellycrunch/proj.android/assets/scripts/outoflivesdialog.lua",
+		"/Users/stefan/works/hub102/paul/jellycrunch/Source/FacebookManager.cpp",
+		"/Users/stefan/works/hub102/paul/flux/source/flux/Android/FluxDeviceAndroid.cpp",
+		"/Users/stefan/works/hub102/paul/jellycrunch/Source/iOS/FacebookManager.mm",
+		"/Users/stefan/works/hub102/paul/jellycrunch/Source/FacebookManager.h",
+		"/Users/stefan/works/hub102/paul/jellycrunch/proj.android/jni/Android.mk",
+		"/Users/stefan/works/hub102/paul/flux/source/flux/Encrypt.cpp",
+		"/Users/stefan/works/hub102/paul/flux/source/flux/Flux.cpp",
+		"/Users/stefan/works/hub102/paul/jellycrunch/Source/CollaborationBlockManager.cpp",
+		"/Users/stefan/works/hub102/paul/jellycrunch/Source/GraphManager.cpp",
+		"/Users/stefan/works/hub102/paul/jellycrunch/Source/InboxManager.cpp",
+		"/Users/stefan/works/hub102/paul/jellycrunch/Source/Stub/FacebookManagerStub.cpp",
+		"/Users/stefan/works/hub102/paul/jellycrunch/Source/BlobManager.cpp",
+		"/Users/stefan/works/hub102/paul/jellycrunch/Resources/scripts/boardmodel.lua",
+		"/Users/stefan/works/hub102/paul/flux/source/flux/Stub/FluxDeviceStub.cpp",
+		"/Users/stefan/works/hub102/paul/flux/source/flux/FluxDevice.h",
+		"/Users/stefan/works/hub102/paul/jellycrunch/Resources/scripts/leveleditor/levelrules.lua",
+		"/Users/stefan/works/hub102/paul/flux/source/flux/Flux.h",
+		"/Users/stefan/works/hub102/paul/cocos2d-x-2.2.1/samples/Lua/TestLua/proj.android/jni/Android.mk",
+		"/Users/stefan/works/hub102/paul/jellycrunch/Resources/scripts/boardview.lua",
+		"/Users/stefan/works/hub102/paul/jellycrunch/proj.android/assets/flux/flux.lua",
+		"/Users/stefan/works/hub102/paul/cocos2d-x-2.2.1/samples/Lua/TestLua/Resources/luaScript/mainMenu.lua",
+		"/Users/stefan/works/hub102/paul/flux/source/flux/FluxThread.cpp",
+		"/Users/stefan/works/hub102/paul/cocos2d-x-2.2.1/cocos2dx/Android.mk",
+		"/Users/stefan/works/hub102/paul/jellycrunch/proj.ios/Prefix.pch",
+		"/Users/stefan/works/hub102/paul/cocos2d-x-2.2.1/cocos2dx/platform/third_party/android/prebuilt/libjpeg/Android.mk",
+		"/Users/stefan/works/ah3q-backend/app/controllers/players_controller.rb",
+		"/Users/stefan/works/ah3q-backend/app/serializers/player_serializer.rb",
+		"/Users/stefan/works/ah3q-backend/app/models/quest_record.rb",
+		"/Users/stefan/works/ah3q-backend/app/models/player/statistics.rb",
+		"/Users/stefan/works/ah3q-backend/app/workers/update_finish_wave_achievements_worker.rb",
+		"/Users/stefan/works/ah3q-backend/app/models/player_statistic.rb",
+		"/Users/stefan/works/ah3q-backend/app/serializers/player_finish_wave_serializer.rb",
+		"/Users/stefan/works/ah3q-backend/app/models/player/quests_helper.rb",
+		"/Users/stefan/works/ah3q-backend/app/models/player.rb",
+		"/Users/stefan/works/ah3q-backend/app/serializers/player_statistics_count_badges_serializer.rb",
+		"/Users/stefan/works/ah3q-backend/app/models/quest.rb",
+		"/Users/stefan/works/ah3q-backend/app/models/player/return_hashs_helper.rb",
+		"/Users/stefan/works/ah3q-backend/app/models/daily_achievement_log.rb",
+		"/Users/stefan/works/ah3q-backend/app/models/owned_officer.rb",
+		"/Users/stefan/works/ah3q-backend/app/models/player/owned_officers_helper.rb",
+		"/Users/stefan/works/ah3q-backend/lib/tasks/db.rake",
+		"/Users/stefan/works/ah3q-backend/Capfile",
+		"/Users/stefan/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/stefan/works/spine-fun/aspirin/config.ru",
+		"/Users/stefan/works/ah3q-backend/app/models/player/arena_helper.rb",
+		"/Users/stefan/works/ah3q-backend/app/controllers/arena_matches_controller.rb",
+		"/Users/stefan/works/ah3q-backend/app/models/player/cities_helper.rb",
+		"/Users/stefan/works/ah3q-backend/app/controllers/leaderboards_controller.rb",
+		"/Users/stefan/works/ah3q-backend/app/serializers/arena_match_serializer.rb",
+		"/Users/stefan/works/ah3q-backend/config/routes.rb",
+		"/Users/stefan/works/ah3q-backend/app/models/player/arena_player.rb",
+		"/Users/stefan/works/ah3q-backend/app/models/defense_battle.rb",
+		"/Users/stefan/works/ah3q-backend/app/models/player/play_turns_helper.rb",
+		"/Users/stefan/works/ah3q-backend/app/models/event_gift_set.rb",
+		"/Users/stefan/works/ah3q-backend/app/models/player/levels_helper.rb",
+		"/Users/stefan/works/ah3q-backend/db/seed_data/officers_shop.json",
+		"/Users/stefan/works/ah3q-backend/config/mongoid.yml",
+		"/Users/stefan/works/ah3q-backend/app/models/player/constants.rb",
+		"/Users/stefan/works/ah3q-backend/app/models/player/levels_data.rb",
+		"/Users/stefan/tools/phaser-1.1.4/examples/tilemaps/mapcollide.js",
+		"/Users/stefan/works/doi-nghich/Preloader.js",
+		"/Users/stefan/works/doi-nghich/Boot.js",
+		"/Users/stefan/tools/phaser-1.1.4/examples/_site/css/phaser-examples.css",
+		"/Users/stefan/works/doi-nghich/index.html",
+		"/Users/stefan/works/doi-nghich/MainMenu.js",
+		"/Users/stefan/works/doi-nghich/game.js",
+		"/Users/stefan/tools/phaser-1.1.4/examples/_site/js/phaser-viewer.js",
+		"/Users/stefan/tools/phaser-1.1.4/examples/_site/js/run_prettify.js",
+		"/Users/stefan/tools/phaser-1.1.4/examples/index.html",
+		"/Users/stefan/tools/cocos2d-x-2.2/projects/DiamondDashRevamp/_reference/Flash app decompiled/gameplay/controller/state/FinishedState.as",
+		"/Users/stefan/tools/cocos2d-x-2.2/projects/DiamondDashRevamp/_reference/Flash app decompiled/gameplay/model/GameStatistics.as",
+		"/Users/stefan/tools/cocos2d-x-2.2/projects/DiamondDashRevamp/_reference/Flash app decompiled/gameplay/model/BoostStatistics.as",
+		"/Users/stefan/tools/cocos2d-x-2.2/projects/DiamondDashRevamp/_reference/Flash app decompiled/model/basedata/ExperienceConfiguration.as",
+		"/Users/stefan/tools/cocos2d-x-2.2/projects/DiamondDashRevamp/_reference/Flash app decompiled/model/application/ExperienceStep.as",
+		"/Users/stefan/tools/cocos2d-x-2.2/projects/DiamondDashRevamp/_reference/Flash app decompiled/setup/startup/StartupTaskAction.as",
+		"/Users/stefan/tools/cocos2d-x-2.2/projects/DiamondDashRevamp/_reference/Flash app decompiled/setup/task/InitializeLevelsTask.as",
+		"/Users/stefan/tools/cocos2d-x-2.2/projects/DiamondDashRevamp/_reference/Flash app decompiled/controller/game/PrepareGameSetupTask.as",
+		"/Users/stefan/works/ah3q-ios/misc/query_data/getCountryDef",
+		"/Users/stefan/Library/Application Support/iPhone Simulator/6.0/Applications/9A4F839D-5C05-4B91-ABF1-F28C63784C74/Documents/query_data.txt",
+		"/Users/stefan/works/ah3q-ios/misc/character_packer/src/main.rb",
+		"/Users/stefan/works/ah3q-ios/misc/query_data/getDefenceChess",
+		"/Users/stefan/works/ah3q-ios/misc/character_packer/Gemfile",
+		"/Users/stefan/works/ah3q-ios/docs/query_data/getMapDef",
+		"/Users/stefan/works/ah3q-ios/docs/query_data/getCountryDef",
+		"/Users/stefan/tools/cocos2d-x-2.2/projects/DiamondDashRevamp/_reference/Flash app decompiled/gameplay/model/GameSetup.as",
+		"/Users/stefan/tools/cocos2d-x-2.2/projects/DiamondDashRevamp/_reference/Flash app decompiled/gameplay/modules/FireModeGameplayModule.as",
+		"/Users/stefan/tools/cocos2d-x-2.2/projects/DiamondDashRevamp/_reference/Flash app decompiled/gameplay/model/GameplayModel.as",
+		"/Users/stefan/tools/cocos2d-x-2.2/projects/DiamondDashRevamp/_reference/Flash app decompiled/gameplay/config/GameplayDifficultyManager.as",
+		"/Users/stefan/tools/cocos2d-x-2.2/projects/DiamondDashRevamp/_reference/Flash app decompiled/gameplay/controller/ScoreCalculator.as",
+		"/Users/stefan/tools/cocos2d-x-2.2/projects/DiamondDashRevamp/_reference/Flash app decompiled/setup/task/InitializeParsleyContextTask.as",
+		"/Users/stefan/tools/cocos2d-x-2.2/projects/DiamondDashRevamp/_reference/Flash app decompiled/gameplay/gridaction/DestroyDiamondGridAction.as",
+		"/Users/stefan/tools/cocos2d-x-2.2/projects/DiamondDashRevamp/_reference/Flash app decompiled/gameplay/controller/BoostGameplayModule.as",
+		"/Users/stefan/tools/cocos2d-x-2.2/projects/DiamondDashRevamp/_reference/Flash app decompiled/gameplay/controller/grid/GridController.as",
+		"/Users/stefan/tools/cocos2d-x-2.2/projects/DiamondDashRevamp/_reference/Flash app decompiled/gameplay/gridaction/GridActionFactory.as",
+		"/Users/stefan/tools/cocos2d-x-2.2/projects/DiamondDashRevamp/_reference/Flash app decompiled/gameplay/gridaction/DestroyGemGroupGridAction.as",
+		"/Users/stefan/tools/cocos2d-x-2.2/projects/DiamondDashRevamp/_reference/Flash app decompiled/gameplay/controller/message/PlayerDestroyedGems.as",
+		"/Users/stefan/tools/cocos2d-x-2.2/projects/DiamondDashRevamp/_reference/Flash app decompiled/gameplay/gridaction/BlockingPhysicsGridAction.as",
+		"/Users/stefan/tools/cocos2d-x-2.2/projects/DiamondDashRevamp/_reference/Flash app decompiled/gameplay/gridaction/ResolvePhysicsGridAction.as",
+		"/Users/stefan/tools/cocos2d-x-2.2/projects/DiamondDashRevamp/_reference/Flash app decompiled/model/sound/SoundName.as",
+		"/Users/stefan/tools/cocos2d-x-2.2/projects/DiamondDashRevamp/_reference/Flash app decompiled/gameplay/controller/message/FillGameplayGrid.as",
+		"/Users/stefan/tools/cocos2d-x-2.2/projects/DiamondDashRevamp/_reference/Flash app decompiled/gameplay/model/balancing/GameBalancing.as",
+		"/Users/stefan/tools/cocos2d-x-2.2/projects/DiamondDashRevamp/_reference/Flash app decompiled/gameplay/model/balancing/AnimationBalancing.as",
+		"/Users/stefan/tools/cocos2d-x-2.2/projects/DiamondDashRevamp/_reference/Flash app decompiled/shared/util/random/Randomizer.as",
+		"/Users/stefan/tools/cocos2d-x-2.2/projects/DiamondDashRevamp/_reference/Flash app decompiled/gameplay/view/component/Gem.as"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"",
+			"flux/",
+			"",
+			"jellycrunch/",
+			"",
+			"ios/",
+			"ios/core",
+			"",
+			"ios/",
+			"backend/",
+			"ios/",
+			"backend/",
+			"ios/",
+			"backend/",
+			"ios/",
+			"backend/",
+			"ios/",
+			"",
+			"core/",
+			"",
+			"core/",
+			"core",
+			"",
+			"CREATE_FUNC",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"hero",
+			"ul",
+			"ul {",
+			"ul",
+			"right",
+			"42rem",
+			"width: ",
+			"url",
+			"Ljava/lang/String;",
+			"SendLives",
+			"SendRequestTo",
+			"isFbLoggedIn",
+			"getFbAccessToken",
+			"SendRequestAskFriendsForLives",
+			"SendRequestAskFriendsForHelp",
+			"RequestFriendList",
+			"GetRequests",
+			"allowLoginUI",
+			"HandleSessionStateChange",
+			"OpenSession(true)",
+			"OpenSession",
+			"OpenSession(",
+			"OpenSession",
+			"login",
+			"login()",
+			"logout",
+			"IsLoggedIn",
+			"islogged",
+			"IsLoggedIn",
+			"GetAccessToken",
+			"requestme",
+			"HandleHttpResponse",
+			"RequestMe(",
+			"RequestMe",
+			"CallStatic",
+			"FacebookLogin",
+			"FacebookLogin()",
+			"FacebookLogin(",
+			"FacebookLogin",
+			"FacebookIsLoggedIn",
+			"FacebookLogin",
+			"login",
+			"opensession",
+			"GetNumColors",
+			"#include \"Flux/",
+			"#include \"Flux",
+			"blowfish.h",
+			"blow",
+			"FacebookManager::Logout",
+			"OpenSession",
+			"stub",
+			"defaultBlockerTouchPriority",
+			"edit",
+			"edittext",
+			"CCEditBox",
+			"touchblocker onTouchbegan",
+			"touchblocker onTouchBegan (levelrules)",
+			"defaultBlockerTouchPriority",
+			" onTouchMoved RED",
+			"CCEditBox",
+			"istablet",
+			"strict.lua",
+			"strict",
+			"flux",
+			"import",
+			"call",
+			"NDK_MODULE_PATH",
+			"cirl",
+			"~BitmapDC",
+			"function TransitionScene",
+			"TransitionScene",
+			"LeaderboardRequestLevel(level)\n",
+			"MakePositionMarker",
+			"GetUserImagePath_S",
+			"MakeOptionsButton",
+			"print",
+			"CreateChildren",
+			"FacebookLogin",
+			": bye",
+			"TransitionScene",
+			"pressed play button",
+			"ReplaceScene",
+			"LOCAL_SRC_FILES",
+			"jellycrunch",
+			"flux",
+			"GraphManager",
+			"AppDelegate",
+			"Compile++ thumb  : ",
+			"hello",
+			"hellocpp",
+			"hello",
+			"JNI_Load",
+			"NO JNI_Load",
+			"isEmulator",
+			"Java_org_cocos2dx_lib_Cocos2dxRenderer_nativeTouchesMove",
+			"GetEnv",
+			"LOCAL_SRC_FILES",
+			"cocos_extension_static",
+			"BUILD_SHARED_LIBRARY",
+			"UIMarginZero",
+			"equip_to_owned_officer_id",
+			"pending_quest_rewards_count",
+			"PlayerStatisticsCountBadgesSerializer",
+			"check_and_unlock_quests",
+			"statis",
+			"statisc",
+			"def update_statistic",
+			"player_finish_wave",
+			"vint",
+			"owned_daily_achievements_for_today",
+			"localtime",
+			"hung",
+			"anima",
+			"create_skill_comp",
+			"Kiếm Khí",
+			"liuxian",
+			"liuxuan",
+			"liu",
+			"LiuXian",
+			"bing2",
+			"cont=que",
+			"conquest_points",
+			"conquest",
+			"leaderboard_hash",
+			"player_params",
+			"current_wave",
+			"can_defense_next_wave",
+			"defense"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"fbIsLoggedIn",
+			"fbGetAccessToken",
+			"#include \"flux/",
+			"PlayerCountBadgesSerializer",
+			"this.player.",
+			"this.layer",
+			"this.map",
+			"phaser/src",
+			"spawn_invaders_sys",
+			"SpawnInvadersSys",
+			"DeployDefenderAction",
+			"deployed_defender",
+			"deploy_defender",
+			"dismiss_defender",
+			"deployed_defender",
+			"deploy_defender",
+			"DeployDefenderAction",
+			"DELAY_FRAMES_TO_HIT",
+			"intelligence",
+			"cooldown_time_multiplier",
+			"name",
+			"map_file",
+			"way_point_sets",
+			"",
+			"base_damage",
+			"speed_3x_btn",
+			"delay_frames_to_hit",
+			"frames_per_attack",
+			"delay_frames_to_hit",
+			"remaining_frames_to_attack",
+			"frames_per_attack",
+			"remaining_frames_to_attack",
+			"frames_per_attack",
+			"speed",
+			"spawn_attackers_sys",
+			"SpawnAttackerSys",
+			"attacker",
+			"spawn_next_wave",
+			"eslapsed_time_since_last_character",
+			"spawned_enemy_in_current_wave_count",
+			"BeginGameLayer",
+			"download_shop_officers",
+			"_Icon.jpg",
+			"Tớ đang tải, chờ tí... ",
+			"animationFrameInterval",
+			"this.throwsPerCooldown",
+			"deployed_officer_coordinates",
+			"\"Artemis::Component\"",
+			"officer",
+			"offie",
+			"officer",
+			"CoordinateHelper.key_for_coordinate",
+			"ComponentMapperHelper",
+			"TileGrid",
+			"_loc_1",
+			"g_start_menu_resources",
+			"RacingPenguinEscape",
+			"BeHocVan",
+			".ogg",
+			"CREATE_FUNC",
+			"/Users/stefan/works/ultimate_arrow"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "_posts/2014-02-04-call-java-functions-from-cpp.markdown",
+					"settings":
+					{
+						"buffer_size": 4356,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								183,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_posts/2012-01-19-install-moses-on-ubuntu-10-dot-10.markdown",
+					"settings":
+					{
+						"buffer_size": 4170,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3592,
+								3592
+							]
+						],
+						"settings":
+						{
+							"auto_name": "---",
+							"syntax": "Packages/Markdown/Markdown.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "_posts/2014-02-09-callback-in-cocos2dx.markdown",
+					"settings":
+					{
+						"buffer_size": 1492,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1491,
+								1491
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 285.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "public/css/poole.css",
+					"settings":
+					{
+						"buffer_size": 6407,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 870.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "public/css/lanyon.css",
+					"settings":
+					{
+						"buffer_size": 11640,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1302.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "_config.yml",
+					"settings":
+					{
+						"buffer_size": 1031,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"conf",
+				"_config.yml"
+			],
+			[
+				"css",
+				"public/css/lanyon.css"
+			],
+			[
+				"head",
+				"_includes/head.html"
+			],
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"idex",
+				"index.html"
+			],
+			[
+				"_con",
+				"_config.yml"
+			],
+			[
+				"atom",
+				"atom.xml"
+			],
+			[
+				"jellycjava",
+				"jellycrunch/proj.android/src/com/unfinishedgames/jellycrunch/JellyCrunch.java"
+			],
+			[
+				"facebook",
+				"jellycrunch/Source/FacebookManager.h"
+			],
+			[
+				"faceboand",
+				"jellycrunch/Source/Android/FacebookManagerAndroid.cpp"
+			],
+			[
+				"applicat",
+				"jellycrunch/proj.android/jni/Application.mk"
+			],
+			[
+				"androidde",
+				"flux/source/flux/Android/FluxDeviceAndroid.cpp"
+			],
+			[
+				"fbmana",
+				"jellycrunch/Source/iOS/FacebookManager.mm"
+			],
+			[
+				"faceand",
+				"jellycrunch/Source/Android/FacebookManagerAndroid.cpp"
+			],
+			[
+				"facebookma",
+				"jellycrunch/Source/FacebookManager.h"
+			],
+			[
+				"facebook.cpp",
+				"jellycrunch/Source/FacebookManager.cpp"
+			],
+			[
+				"android.cpp",
+				"flux/source/flux/Android/FluxDeviceAndroid.cpp"
+			],
+			[
+				"facebookmana",
+				"jellycrunch/Source/Android/FacebookManagerAndroid.cpp"
+			],
+			[
+				"mainmenu",
+				"jellycrunch/Resources/scripts/mainmenu.lua"
+			],
+			[
+				"facebokma",
+				"jellycrunch/Source/iOS/FacebookManager.mm"
+			],
+			[
+				"faceookma",
+				"jellycrunch/Source/FacebookManager.cpp"
+			],
+			[
+				"boardmo",
+				"jellycrunch/Resources/scripts/boardmodel.lua"
+			],
+			[
+				"inboxm",
+				"jellycrunch/Source/InboxManager.cpp"
+			],
+			[
+				"blob",
+				"jellycrunch/Source/BlobManager.cpp"
+			],
+			[
+				"fluxdevan",
+				"flux/source/flux/Android/FluxDeviceAndroid.cpp"
+			],
+			[
+				"fluxc",
+				"flux/source/flux/Flux.cpp"
+			],
+			[
+				"encr",
+				"flux/source/flux/Encrypt.cpp"
+			],
+			[
+				"and",
+				"jellycrunch/proj.android/jni/Android.mk"
+			],
+			[
+				"build_na",
+				"jellycrunch/proj.android/build_native.sh"
+			],
+			[
+				"facebooka",
+				"jellycrunch/Source/Android/FacebookManagerAndroid.cpp"
+			],
+			[
+				"facebookmanag",
+				"jellycrunch/Source/FacebookManager.cpp"
+			],
+			[
+				"flux.h",
+				"flux/source/flux/Flux.h"
+			],
+			[
+				"rules",
+				"jellycrunch/Resources/scripts/leveleditor/levelrules.lua"
+			],
+			[
+				"rules.lu",
+				"jellycrunch/Resources/scripts/leveleditor/levelrules.lua"
+			],
+			[
+				"mainme",
+				"jellycrunch/Resources/scripts/mainmenu.lua"
+			],
+			[
+				"rules.lua",
+				"jellycrunch/Resources/scripts/leveleditor/levelrules.lua"
+			],
+			[
+				"fluxdevice",
+				"flux/source/flux/FluxDevice.h"
+			],
+			[
+				"androim",
+				"jellycrunch/proj.android/jni/Android.mk"
+			],
+			[
+				"devist",
+				"flux/source/flux/Stub/FluxDeviceStub.cpp"
+			],
+			[
+				"android",
+				"flux/source/flux/Android/FluxDeviceAndroid.cpp"
+			],
+			[
+				"stub",
+				"flux/source/flux/Stub/FluxDeviceStub.cpp"
+			],
+			[
+				"loader.",
+				"jellycrunch/Resources/scripts/loader.lua"
+			],
+			[
+				"flux.l",
+				"jellycrunch/proj.android/assets/flux/flux.lua"
+			],
+			[
+				"flux.lu",
+				"jellycrunch/proj.android/assets/flux/flux.lua"
+			],
+			[
+				"flux.lua",
+				"jellycrunch/proj.android/assets/flux/flux.lua"
+			],
+			[
+				"flux",
+				"flux/scripts/flux/flux.lua"
+			],
+			[
+				"build_nat",
+				"jellycrunch/proj.android/build_native.sh"
+			],
+			[
+				"mainmenul",
+				"jellycrunch/Resources/scripts/mainmenu.lua"
+			],
+			[
+				"mainmenu.lua",
+				"cocos2d-x-2.2.1/samples/Lua/TestLua/Resources/luaScript/mainMenu.lua"
+			],
+			[
+				"fluxthrea",
+				"flux/source/flux/FluxThread.cpp"
+			],
+			[
+				"fluxdevis",
+				"flux/source/flux/Stub/FluxDeviceStub.cpp"
+			],
+			[
+				"android.m",
+				"jellycrunch/proj.android/jni/Android.mk"
+			],
+			[
+				"fluxdevid",
+				"flux/source/flux/Android/FluxDeviceAndroid.cpp"
+			],
+			[
+				"ccimage.cpp",
+				"platform/android/CCImage.cpp"
+			],
+			[
+				"map1",
+				"Resources/map1/map.lua"
+			],
+			[
+				"build_native",
+				"cocos2d-x-2.2.1/samples/Lua/TestLua/proj.android/build_native.sh"
+			],
+			[
+				"appl",
+				"config/application.yml"
+			],
+			[
+				"cusomcon",
+				"app/controllers/custom_gifts_controller.rb"
+			],
+			[
+				"owniecon",
+				"app/controllers/owned_items_controller.rb"
+			],
+			[
+				"gene",
+				"_graphics/generate_character_spritesheet.rb"
+			],
+			[
+				"finish",
+				"app/workers/update_finish_wave_achievements_worker.rb"
+			],
+			[
+				"statis",
+				"app/models/player/statistics.rb"
+			],
+			[
+				"playst",
+				"app/models/player_statistic.rb"
+			],
+			[
+				"questre",
+				"app/models/quest_record.rb"
+			],
+			[
+				"stat",
+				"app/models/player/statistics.rb"
+			],
+			[
+				"play",
+				"app/models/player.rb"
+			],
+			[
+				"fini",
+				"app/serializers/player_finish_wave_serializer.rb"
+			],
+			[
+				"placon",
+				"app/controllers/players_controller.rb"
+			],
+			[
+				"rout",
+				"config/routes.rb"
+			],
+			[
+				"ques",
+				"app/models/quest.rb"
+			],
+			[
+				"plast",
+				"app/models/player_statistic.rb"
+			],
+			[
+				"retur",
+				"app/models/player/return_hashs_helper.rb"
+			],
+			[
+				"upda",
+				"app/workers/update_finish_wave_achievements_worker.rb"
+			],
+			[
+				"ownedof",
+				"app/models/owned_officer.rb"
+			],
+			[
+				"finise",
+				"app/serializers/player_finish_wave_serializer.rb"
+			],
+			[
+				"playcon",
+				"app/controllers/players_controller.rb"
+			],
+			[
+				"finishse",
+				"app/serializers/player_finish_wave_serializer.rb"
+			],
+			[
+				"playcontr",
+				"app/controllers/players_controller.rb"
+			],
+			[
+				"ownedofhe",
+				"app/models/player/owned_officers_helper.rb"
+			],
+			[
+				"capf",
+				"Capfile"
+			],
+			[
+				"db",
+				"lib/tasks/db.rake"
+			],
+			[
+				"playdail",
+				"app/models/player/daily_achievements_helper.rb"
+			],
+			[
+				"dailyachilo",
+				"app/models/daily_achievement_log.rb"
+			],
+			[
+				"level",
+				"app/models/player/levels_helper.rb"
+			],
+			[
+				"dailyache",
+				"app/models/player/daily_achievements_helper.rb"
+			],
+			[
+				"app",
+				"app.rb"
+			],
+			[
+				"coni",
+				"config.ru"
+			],
+			[
+				"rake",
+				"/Users/stefan/works/spine-fun/aspirin/app.rb"
+			],
+			[
+				"customgic",
+				"ah3q-backend/app/controllers/custom_gifts_controller.rb"
+			],
+			[
+				"customg",
+				"ah3q-backend/app/models/custom_gift.rb"
+			],
+			[
+				"offic",
+				"ah3q-backend/db/seed_data/officers_city.json"
+			],
+			[
+				"officcit",
+				"ah3q-backend/db/seed_data/officers_city.json"
+			],
+			[
+				"lea",
+				"app/controllers/leaderboards_controller.rb"
+			],
+			[
+				"arem",
+				"app/serializers/arena_match_serializer.rb"
+			],
+			[
+				"are",
+				"app/controllers/arena_matches_controller.rb"
+			],
+			[
+				"route",
+				"config/routes.rb"
+			],
+			[
+				"leader",
+				"app/controllers/leaderboards_controller.rb"
+			],
+			[
+				"leade",
+				"app/controllers/leaderboards_controller.rb"
+			],
+			[
+				"controlle",
+				"app/controllers/players_controller.rb"
+			],
+			[
+				"arenpl",
+				"app/models/player/arena_player.rb"
+			],
+			[
+				"playeare",
+				"app/models/player/arena_helper.rb"
+			],
+			[
+				"player",
+				"app/models/player.rb"
+			],
+			[
+				"playerthe",
+				"app/models/player/play_turns_helper.rb"
+			],
+			[
+				"playecon",
+				"app/controllers/players_controller.rb"
+			],
+			[
+				"playes",
+				"app/serializers/player_serializer.rb"
+			],
+			[
+				"playhelp",
+				"app/models/player/play_turns_helper.rb"
+			],
+			[
+				"playeturnhe",
+				"app/models/player/play_turns_helper.rb"
+			],
+			[
+				"mongo",
+				"config/mongoid.yml"
+			],
+			[
+				"officersh",
+				"db/seed_data/officers_shop.json"
+			],
+			[
+				"ply",
+				"app/models/player.rb"
+			],
+			[
+				"pla",
+				"app/models/player.rb"
+			],
+			[
+				"see",
+				"db/seeds.rb"
+			],
+			[
+				"even",
+				"app/models/event_gift_set.rb"
+			],
+			[
+				"db.",
+				"lib/tasks/db.rake"
+			],
+			[
+				"preload",
+				"doi-nghich/Preloader.js"
+			],
+			[
+				"mapco",
+				"examples/tilemaps/mapcollide.js"
+			],
+			[
+				"prelo",
+				"doi-nghich/Preloader.js"
+			],
+			[
+				"phaserexam",
+				"examples/_site/css/phaser-examples.css"
+			],
+			[
+				"playturn",
+				"app/models/player/play_turns_helper.rb"
+			],
+			[
+				"playtur",
+				"app/models/player/play_turns_helper.rb"
+			],
+			[
+				"seed",
+				"db/seeds.rb"
+			],
+			[
+				"daily",
+				"app/models/daily_gift.rb"
+			],
+			[
+				"skilljs",
+				"db/seed_data/skills.json"
+			],
+			[
+				"booststatistics",
+				"gameplay/model/BoostStatistics.as"
+			],
+			[
+				"gemstat",
+				"gameplay/model/GameStatistics.as"
+			],
+			[
+				"finished",
+				"gameplay/controller/state/FinishedState.as"
+			],
+			[
+				"experien",
+				"model/application/ExperienceStep.as"
+			],
+			[
+				"initializelevelstask",
+				"setup/task/InitializeLevelsTask.as"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 279.0,
+	"status_bar_visible": true
+}
