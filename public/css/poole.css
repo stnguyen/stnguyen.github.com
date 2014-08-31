@@ -88,16 +88,21 @@ h1 {
   font-size: 1.8rem;
 }
 h2 {
-  margin-top: 1rem;
-  font-size: 1.5rem;
+  margin-top: 1.3rem;
+  font-size: 1.6rem;
 }
 h3 {
-  margin-top: 1.5rem;
-  font-size: 1.25rem;
+  margin-top: 1.2rem;
+  font-size: 1.5rem;
 }
-h4, h5, h6 {
+h4 {
+  margin-top: 1.1rem;
+  font-size: 1.3rem;
+}
+
+h5, h6 {
   margin-top: 1rem;
-  font-size: 1rem;
+  font-size: 1.1rem;
 }
 
 /* Body text */
