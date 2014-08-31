@@ -127,3 +127,5 @@ _You might need to retain the String being returned from Java method, or else C+
 ---
 
 In part 2 of this tutorial, I will write about calling C++ methods from Java ;) Stay tuned...
+
+__UPDATE__: [part 2 is here](./call-cpp-functions-from-java.html)
